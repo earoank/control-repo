@@ -13,5 +13,5 @@ mod 'tomcat',
 #  commit: '1b6f89afdde0df7f9433a163d5c4b5328eac5779'
 
 mod 'java'
- git:    'https://github.com/earoank/puppet-module-java.git',
+ git:    'https://github.com/earoank/puppet-module-java.git'
 #  branch: 'docs_experiment'
